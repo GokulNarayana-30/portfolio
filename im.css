@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}  
+h1{
+    color: white;
+}
+header{
+    background-color: rgb(45, 58, 104);
+    padding: 10px;
+    height: 150px;
+}
+nav ul li{
+    color: blanchedalmond;
+    display: inline;
+    padding: 10px;
+}
+nav ul li a{
+    color: aqua;
+    text-decoration: none;
+
+}
+li{
+    display: inline;
+}
+#PORTFOLIO{
+    background-color: antiquewhite;
+    padding: 10px;
+}
+footer{
+    background-color: black;
+    height: 60px;
+    color: white;
+    text-align: middle ;
+    initial-letter: middle;
+    inset-inline: center;
+    padding: 20px;
+}
+img{
+    border-radius: 50%;
+}
